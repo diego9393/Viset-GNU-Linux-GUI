@@ -1,0 +1,13 @@
+/home/diego/viset/viset/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/diego/viset/viset/obj/x86/Release/viset.gtk-gui.gui.stetic
+/home/diego/viset/viset/bin/Release/viset.exe.mdb
+/home/diego/viset/viset/bin/Release/viset.exe
+/home/diego/viset/viset/obj/x86/Release/viset.exe
+/home/diego/viset/viset/obj/x86/Release/viset.exe.mdb
+/home/diego/mono/proyectos/viset/viset/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/diego/mono/proyectos/viset/viset/obj/x86/Release/viset.gtk-gui.gui.stetic
+/home/diego/mono/proyectos/viset/viset/bin/Release/viset.exe.mdb
+/home/diego/mono/proyectos/viset/viset/bin/Release/viset.exe
+/home/diego/mono/proyectos/viset/viset/obj/x86/Release/viset.exe
+/home/diego/mono/proyectos/viset/viset/obj/x86/Release/viset.exe.mdb
+/home/diego/mono/proyectos/viset/viset/obj/x86/Release/viset.viset-corto.png

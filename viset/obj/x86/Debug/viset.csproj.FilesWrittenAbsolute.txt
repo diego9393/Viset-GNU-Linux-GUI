@@ -1,0 +1,6 @@
+/home/diego/viset/viset/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/diego/viset/viset/obj/x86/Debug/viset.gtk-gui.gui.stetic
+/home/diego/viset/viset/bin/Debug/viset.exe.mdb
+/home/diego/viset/viset/bin/Debug/viset.exe
+/home/diego/viset/viset/obj/x86/Debug/viset.exe
+/home/diego/viset/viset/obj/x86/Debug/viset.exe.mdb
